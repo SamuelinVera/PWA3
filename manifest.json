@@ -1,0 +1,17 @@
+{
+    "name": "PWA",
+    "short_name": "sAMUEL",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./sobremi.jpg",
+            "type": "image/jpg",
+            "sizes": ""
+        }
+    ]
+}
